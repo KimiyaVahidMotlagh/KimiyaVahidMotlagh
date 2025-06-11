@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Kimia Vahid Motlagh</h1>
+<h1 align="center">Hi, I'm Kimiya Vahid Motlagh </h1>
 <h3 align="center">Data Scientist | ML & AI Engineer</h3>
 
 ---
