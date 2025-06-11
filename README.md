@@ -22,11 +22,3 @@
   <img src="https://streak-stats.demolab.com?user=KimiyaVahidMotlagh&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
-### 🔍 Featured Repositories
-
-Here are a few cool projects I’ve worked on:
-
-- 📱 [**MarketDataCollector**](https://github.com/KimiyaVahidMotlagh/MarketDataCollector) — First tast, a data set with the global market's data
-- 🧠 [**Manual Neural Network**](https://github.com/KimiyaVahidMotlagh/ANN_manualcoding) — Codeing ANN algorithmn for Mnist Data
-- 📈 [**Statistical_CompareMean_Tests**](https://github.com/KimiyaVahidMotlagh/Statistical_Compare_Mean_Tests) — All Statistical Tests for comparing Means of two vectors
-
