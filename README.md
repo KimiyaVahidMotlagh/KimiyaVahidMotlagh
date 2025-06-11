@@ -30,8 +30,3 @@ Here are a few cool projects I’ve worked on:
 - 🧠 [**Manual Neural Network**](https://github.com/KimiyaVahidMotlagh/ANN_manualcoding) — Codeing ANN algorithmn for Mnist Data
 - 📈 [**Statistical_CompareMean_Tests**](https://github.com/KimiyaVahidMotlagh/Statistical_Compare_Mean_Tests) — All Statistical Tests for comparing Means of two vectors
 
-### 📬 Connection Links
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/kimiya-vahidmotlagh)
-- 🐦 [Twitter](https://twitter.com/KimiyaVM)
-- 💌 Email: vahidmotlagh.kimiya@gmail.com
