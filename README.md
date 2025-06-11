@@ -1,8 +1,3 @@
-<h1 align="center">Hi, I'm Kimiya Vahid Motlagh </h1>
-<h3 align="center">Data Scientist | ML & AI Engineer</h3>
-
----
-
 ### 🧠 About Me
 
 - 🎓 Computer Engineering Student  
