@@ -7,7 +7,7 @@
 - 🌱 Currently learning: AI in Game Development    
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/kimiya-vahidmotlagh) 
 
-### 📈 My GitHub Stats
+### 📈 My GitHub Language Useage Stat
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KimiyaVahidMotlagh&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" />
